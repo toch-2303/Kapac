@@ -1,1 +1,2 @@
 # Kapac
+Manual Kapac OS
